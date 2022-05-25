@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wait3 / Mohamed.
+- 👋 Hi, I’m @MohamedZribi / Mohamed.
 - 👀 I’m interested in every aspect of Technology and knoweldge, generally speaking.
 - 🌱 I’m currently learning Software development.
 - 💞️ I’m looking to collaborate on any project.
