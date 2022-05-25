@@ -5,8 +5,8 @@
 - 📫 You can reach me at mohamed.zribi.dr@gmail.com 
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=MohamedZribi)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZribi)]
+![My Stats](https://github-readme-stats.vercel.app/api?username=MohamedZribi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZribi)
 
 
 
