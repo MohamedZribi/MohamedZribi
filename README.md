@@ -1,5 +1,5 @@
 Hi, I'm Mohamed and I'm a full-stack web developer
 
-=======================================================================================
+========================================================
 
-**These are the projects I worked on so far...
+**These are the projects I worked on so far...**
